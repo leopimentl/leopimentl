@@ -3,8 +3,8 @@
 
  <div align="center">
   <a href="https://github.com/leopimentl">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leopimentl&show_icons=true&theme=omni&count_private=TRUE&include_all_commits=true&text_color=ed9acc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopimentl&langs_count=7&theme=omnia&layout=compact&text_color=fab6df&count_private=true">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api username=leopimentl&show_icons=true&theme=omni&count_private=TRUE&include_all_commits=true&text_color=ed9acc">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopimentl&langs_count=7&theme=omni&layout=compact&text_color=fab6df&count_private=true">
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Leandro Khalel - JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
