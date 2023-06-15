@@ -1,5 +1,5 @@
   ## Olá! Eu me chamo Leandro Khalel. 
-  Graduando em Sistemas de Informação 2/8 e Técnico em Desenvolvimento de Sistemas, atualmente estou estudando Java.
+  Graduando em Sistemas de Informação 3/8 e Técnico em Desenvolvimento de Sistemas, atualmente estou estudando Java, JDBC com MySQL e PostgreSQL.
 
  <div align="center">
   <a href="https://github.com/leopimentl">
