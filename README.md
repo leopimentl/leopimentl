@@ -2,9 +2,7 @@
 
  <div align="center">
   <a href="https://github.com/leopimentl">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leopimentl&show_icons=true&theme=dark&count_private=TRUE&include_all_commits=true&text_color=ed9acc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopimentl&langs_count=7&theme=dark&layout=compact&text_color=fab6df&count_private=true">
-    
+  
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Leandro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
