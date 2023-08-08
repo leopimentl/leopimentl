@@ -1,9 +1,5 @@
 # Leandro Khalel, Desenvolvedor Back-End Java👋
-
- <div align="center">
-  <a href="https://github.com/leopimentl">
-  
-</div>
+ 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Leandro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Leandro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
