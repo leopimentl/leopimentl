@@ -21,4 +21,4 @@
 
 ## ✉️ Contact
 - LinkedIn: https://www.linkedin.com/in/leandrokhalel/
-- Email: leandro.khalel.vagas@gmail.com
+- Email: leandrokhalelpimentel@gmail.com
