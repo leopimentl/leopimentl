@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Leandro Khalel</h1>
 
-- 🔥 Full-Stack Developer
+- 🔥 Spring Boot / Java / Back-End
 
 - 🔭 Information Systems Student
 
